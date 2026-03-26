@@ -313,6 +313,6 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📬 Contact
 
-Made with ❤️ by [Your Name](https://github.com/your-username)
+Made with ❤️ by [Aditya Soran](https://github.com/adityasoran0698)
 
 > ⭐ If you found this project helpful, please give it a star!
