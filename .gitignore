@@ -1,4 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Env
 .env
-node_modules
-venv
-__pycache__
+
+# Large files
+*.mp4
+*.zip
+*.log
+
+# ML models
+*.bin
+*.pt
