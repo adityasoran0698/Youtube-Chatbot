@@ -1,19 +1,13 @@
-# Python
+# Python virtual env
 venv/
+Backend/venv/
+
+# Python cache
 __pycache__/
 *.pyc
 
-# Node
-node_modules/
-
-# Env
+# Env file
 .env
 
-# Large files
-*.mp4
-*.zip
-*.log
-
-# ML models
-*.bin
-*.pt
+# Node
+node_modules/
